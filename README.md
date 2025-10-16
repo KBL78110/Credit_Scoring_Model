@@ -101,6 +101,7 @@ Précision : 88% & 85 % AUC Score 1 : 0.75 AUC Score 2 : 0.85 AUC Score 3 : 0.89
 
 
 
+
 💡 Insights business :
 
 Dans 89% des cas, notre modèle qualifie correctement si un client est bon ou mauvais.
