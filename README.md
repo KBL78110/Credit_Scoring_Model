@@ -14,7 +14,7 @@ Savoir identifier un client à risque est stratégique. Dans le cas contraire ce
 
 Identifier et gérer ces clients risqués est essentiel pour prendre des décisions plus éclairées et estimer avec précision la probabilité de défaut de paiement.
 
-Ce projet illustre comment un modèle prédictif peut qualifier correctement les clients. 
+Ce projet illustre comment un modèle prédictif pour qualifier correctement les clients. 
 
 
 🧩 Données :
