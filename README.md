@@ -17,9 +17,6 @@ Identifier et gérer ces clients risqués est essentiel pour prendre des décisi
 Ce projet illustre comment un modèle prédictif pour qualifier correctement les clients. 
 
 
-🧩 Données :
-
-Source : lien ou description rapide Taille : nombre de lignes, variables Variables clés : âge, fréquence d’achat, panier moyen, ancienneté, etc.
 
 ⚙️ Méthodologie :
 
